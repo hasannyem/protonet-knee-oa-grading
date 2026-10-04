@@ -1,0 +1,7 @@
+KL grade,Description,Train,Validation,Test,Total,Percentage
+0,Healthy,2286,328,639,3253,39.38
+I,Doubtful,1046,153,296,1495,18.1
+II,Minimal,1516,212,447,2175,26.33
+III,Moderate,757,106,223,1086,13.15
+IV,Severe,173,27,51,251,3.04
+Total,,5778,826,1656,8260,100.0
